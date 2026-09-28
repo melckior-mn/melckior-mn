@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Melckior MONNOU
 
-### 🤖 AI Enthusiast | 🧠 Pre-Engineering Student | 🐍 Python Developer
+### 🤖 AI & Machine Learning Enthusiast | 🎓 Pre-Engineering Student | 🐍 Python
 
-I'm a motivated **pre-engineering student** at **INSPEI**, passionate about **Artificial Intelligence, Machine Learning, Mathematics and Computer Science**.
+I'm a motivated **pre-engineering student at INSPEI**, passionate about **Artificial Intelligence, Machine Learning, Mathematics and Computer Science**.
 
-I enjoy understanding how things work from the ground up, building projects, experimenting with models, and turning mathematical concepts into practical solutions.
+I'm currently building my skills through projects, competitions, experimentation and a lot of learning — with a particular interest in understanding the **mathematical and algorithmic foundations behind AI**.
 
 ---
 
@@ -12,78 +12,103 @@ I enjoy understanding how things work from the ground up, building projects, exp
 
 * 🎓 Pre-engineering student at **INSPEI**
 * 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-* 🐍 Python is my main programming language
-* 📐 Interested in **Mathematics, Optimization and Algorithms**
+* 🐍 Main programming language: **Python**
+* 📐 Interested in **Mathematics, Algorithms & Optimization**
 * 💻 Currently learning **C** and **Arduino**
 * 🏆 Participating in **AI competitions and collaborative projects**
-* 🔬 I like implementing algorithms **from scratch** to understand what happens under the hood
-* 🚀 Currently improving my skills in Machine Learning and AI project development
+* 🔬 Interested in implementing algorithms **from scratch**
+* 🚀 Building projects to turn theory into practical applications
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### 💻 Programming
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
 
-### 🤖 AI & Data
+### AI & Data
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
-### 🔧 Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
 
 ---
 
 ## 🚀 What I'm Working On
 
-### 🏆 AI Projects & Competitions
+### 🧠 Artificial Intelligence
 
-I'm actively working on machine learning projects involving:
+I'm currently exploring:
 
-* 📊 Data preprocessing & analysis
-* 📈 Regression and classification
-* 🧠 Machine learning algorithms
-* 🔢 Mathematical optimization
-* 🔍 Similarity & information retrieval
-* 🏗️ AI model integration into applications
+* Machine Learning
+* Data preprocessing & analysis
+* Regression & classification
+* Similarity and information retrieval
+* RAG systems
+* Mathematical optimization
+* Algorithms implemented from scratch
 
-I'm particularly interested in understanding the **mathematical foundations behind AI**, rather than treating machine learning as a black box.
+My goal isn't only to **use** AI libraries, but to understand what happens behind them.
+
+---
+
+## 📌 Projects
+
+### 🧠 RAG & Knowledge Retrieval
+
+Exploring how AI systems can retrieve relevant information from documents using similarity measures and retrieval techniques.
+
+**Focus:** NLP · Information Retrieval · RAG
+
+---
+
+### 📊 Machine Learning From Scratch
+
+Implementing fundamental machine learning algorithms while studying the mathematics behind them.
+
+**Focus:** Python · Mathematics · Machine Learning
+
+---
+
+### 🏆 AI Competitions
+
+Participating in machine learning competitions to apply theoretical knowledge to real datasets and practical problems.
+
+**Focus:** Data Analysis · Feature Engineering · Model Evaluation
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Mathematics & Statistics
-        ↓
-Algorithms & Optimization
-        ↓
-Software & AI Projects
+Mathematics
+    │
+    ├── Linear Algebra
+    ├── Probability & Statistics
+    └── Optimization
+            │
+            ▼
+       Algorithms
+            │
+            ▼
+   Machine Learning
+            │
+            ▼
+ Artificial Intelligence
+            │
+            ▼
+    Real-world Projects
 ```
-
-I'm continuously working on improving my understanding of:
-
-* 🧮 Linear algebra
-* 📊 Probability & statistics
-* 📐 Optimization
-* 🧠 Machine Learning
-* 🐍 Advanced Python
-* 💻 Algorithms & data structures
-* 🔗 Graph theory
 
 ---
 
@@ -91,43 +116,40 @@ I'm continuously working on improving my understanding of:
 
 > **Understand. Build. Experiment. Improve.**
 
-My long-term goal is to become a strong engineer specialized in **Artificial Intelligence**, combining mathematical foundations, programming and real-world problem solving.
+I'm working toward becoming an engineer specialized in **Artificial Intelligence**, combining strong mathematical foundations, programming and practical problem solving.
 
 ---
 
-## 📌 Featured Projects
+## 📈 My Journey
 
-🔹 **Machine Learning From Scratch**
-Implementing ML algorithms while focusing on their mathematical foundations.
-
-🔹 **AI Competitions**
-Applying data analysis and machine learning techniques to real-world datasets.
-
-🔹 **Champions League Prediction** ⚽
-Collaborative AI project focused on predicting football competition outcomes and presenting model results through an interface.
-
-🔹 **RAG / AI Knowledge Systems** 🧠
-Exploring document retrieval, similarity measures and AI systems capable of working with external knowledge.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melckior-mn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melckior-mn&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+```text
+2025
+│
+├── Started building programming foundations
+│
+2026
+│
+├── Pre-engineering studies at INSPEI
+├── Machine Learning projects
+├── AI competitions
+├── RAG experimentation
+└── Collaborative AI projects
+│
+▼
+Next
+└── Keep building, learning and experimenting 🚀
+```
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
-I'm always interested in connecting with people passionate about **AI, engineering, mathematics and technology**.
+💼 **LinkedIn:** [Melckior MONNOU](https://www.linkedin.com/in/melckior-tatch%C3%A9gnon-monnou-bb8a3a396/)
 
-📫 Feel free to explore my repositories and follow my journey.
+🐙 **GitHub:** [@melckior-mn](https://github.com/melckior-mn)
 
 ---
 
 <p align="center">
-  <i>Building my skills one algorithm at a time. 🤖</i>
+  <i>Building my way into AI, one project at a time. 🤖</i>
 </p>
