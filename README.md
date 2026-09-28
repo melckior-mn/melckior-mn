@@ -114,8 +114,8 @@ Exploring document retrieval, similarity measures and AI systems capable of work
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monnou2008-boop&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monnou2008-boop&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=melckior-mn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melckior-mn&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
